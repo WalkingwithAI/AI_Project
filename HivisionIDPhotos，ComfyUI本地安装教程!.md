@@ -10,6 +10,7 @@
 
 
 
+
 ## 安装指南
 
 **1. 安装项目节点**
@@ -43,41 +44,11 @@ RetinaFace：下载后放到`hivision/creator/retinaface/weights`目录下。[�
 
 
 
+
 ## 参考资料
 
 [1] 项目地址：[HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)，感谢[Zeyi-Lin](https://github.com/Zeyi-Lin/HivisionIDPhotos/commits?author=Zeyi-Lin)大佬制作。
 
 [2] 工作流地址：[HivisionIDPhotos-ComfyUI](https://github.com/AIFSH/HivisionIDPhotos-ComfyUI)，感谢[AIFSH](https://github.com/AIFSH)大佬提供。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-大家好，欢迎来到与AI同行。今天给大家分享下最近爆火的AI证件照项目，如何在ComfyUI安装和使用。
-
-好，废话不多说，下面直接开始介绍如何安装。
-
-
-
-最后总结下，AI证件照这个项目呢，使用起来确实非常方便，但是项目前期，需要优化的地方也比较多。
-
-如果能结合Comfyui丰富的生态插件来使用，比如图片的抠图、高清修复、甚至换装等等，这些都有非常优秀的插件，可以直接拿过来和这个项目组合使用，那最后生成的效果肯定会更强大。后续我也会持续跟进这个项目。
-
-
-
-好，本期内容就是这些。如果您感觉我的视频有帮助，欢迎订阅我的频道，我会持续分享有用、有趣的内容，感谢您的支持！
 
