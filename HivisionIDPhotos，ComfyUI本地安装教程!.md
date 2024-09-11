@@ -1,4 +1,4 @@
-# HivisionIDPhotos，ComfyUI本地安装教程！
+# HivisionIDPhotos_ComfyUI本地安装教程
 
 
 
