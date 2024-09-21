@@ -121,4 +121,7 @@ pause
 ```
 
 **PS：**初次启动时需要下载模型，可等待一段时间。
+### AI项目安装和使用问题可加群沟通：
+
+![AI项目安装和使用问题可加qun沟通](https://github.com/user-attachments/assets/bf9fdf47-8384-44bb-b5bb-c11b3487932e)
 
