@@ -41,14 +41,9 @@ RetinaFace：下载后放到`hivision/creator/retinaface/weights`目录下。[�
 **4. 启动**
 
 打开ComfyUI，加载对应的工作流，选择上传图片，调整需要的参数，点击生成即可。
+### AI项目安装和使用问题可加群沟通：
 
+![AI项目安装和使用问题可加qun沟通](https://github.com/user-attachments/assets/bf9fdf47-8384-44bb-b5bb-c11b3487932e)
 
-
-
-## 参考资料
-
-[1] 项目地址：[HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)，感谢[Zeyi-Lin](https://github.com/Zeyi-Lin/HivisionIDPhotos/commits?author=Zeyi-Lin)大佬制作。
-
-[2] 工作流地址：[HivisionIDPhotos-ComfyUI](https://github.com/AIFSH/HivisionIDPhotos-ComfyUI)，感谢[AIFSH](https://github.com/AIFSH)大佬提供。
 
 
