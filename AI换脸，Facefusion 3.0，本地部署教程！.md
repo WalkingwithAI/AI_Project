@@ -7,14 +7,12 @@
 **1. 显存>=4G**
 
 打开任务管理器，选择性能，查看右侧专用显卡显存，要>=4G。
-
-![image-20240924115924868](C:\Users\HCl\AppData\Roaming\Typora\typora-user-images\image-20240924115924868.png)
+![image](https://github.com/user-attachments/assets/f9e505a8-feee-4998-9c84-615cc813101c)
 
 **2. 显卡可以支持CUDA12.4版本**
 
 cmd窗口输入`nvidia-smi`，支持CUDA版本>=12.4即可。否则，尝试更新显卡驱动后再试。
-
-![image-20240924120332212](C:\Users\HCl\AppData\Roaming\Typora\typora-user-images\image-20240924120332212.png)
+![image-20240924120332212](https://github.com/user-attachments/assets/4a40e5b4-89bf-48e7-8a83-bdbb07c6db6f)
 
 **3. 安装Git(已安装，可跳过)**
 
@@ -22,7 +20,8 @@ cmd窗口输入`nvidia-smi`，支持CUDA版本>=12.4即可。否则，尝试更�
 
 如果以上软件未安装，可参考AI项目基本环境安装教程：[YouTube教程](https://youtu.be/yliAfNJgtpI?si=ODw5qKYQ5b9URA2c)，[Bilibili教程](https://www.bilibili.com/video/BV1seYteFEvy/?vd_source=6c8b8679b818b05d24c65f49a65eb994)
 
-![视频封面ybt](E:\Video Create\AI项目部署&运行环境安装，超详细教程！\视频封面ybt.png)
+![视频封面ybt](https://github.com/user-attachments/assets/d5d6a14f-0711-4889-b04a-60c134b45d05)
+
 
 ## 二、facefusion 3.0安装指南
 
@@ -129,5 +128,6 @@ pause
 [2] facefusion官方Help主页：https://docs.facefusion.io/installation
 
 ### PS：AI项目部署和使用问题，可加群一块交流
+![AI项目安装和使用问题可加qun沟通](https://github.com/user-attachments/assets/569a4851-3266-4b78-ac86-bb043c4d0786)
 
-![AI项目安装和使用问题可加qun沟通](C:\Users\HCl\Desktop\AI项目安装和使用问题可加qun沟通.png)
+
