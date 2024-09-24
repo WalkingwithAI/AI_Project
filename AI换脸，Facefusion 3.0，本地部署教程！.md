@@ -106,8 +106,7 @@ https://github.com/facefusion/facefusion-assets/releases/tag/models-3.0.0
 ```
 
 **facefusion常见模型文件(百度云)：**
-
-https://pan.baidu.com/s/1xfA2lGk9y6C3a31s3qO7XA?pwd=a3qq 提取码: a3qq
+https://pan.baidu.com/s/12JdPYVOG9idCt_TaHPYm7Q?pwd=bk3q 提取码: bk3q
 
 ### 5. 启动项目
 
