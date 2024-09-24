@@ -127,6 +127,8 @@ pause
 [2] facefusion官方Help主页：https://docs.facefusion.io/installation
 
 ### PS：AI项目部署和使用问题，可加群一块交流
+(1) Telegram:https://t.me/+hjgDJ5bwUzc4Yjdl
+(2) 微信：
 ![AI项目安装和使用问题可加qun沟通](https://github.com/user-attachments/assets/569a4851-3266-4b78-ac86-bb043c4d0786)
 
 
