@@ -7,8 +7,7 @@
 ## 安装前提
 
 **1. NVIDIA显卡，显存建议>=16G。8G和12G时也可运行，但会用到共享显存，稍慢**
-
-![image-20240924115924868](F:\AI_Project\image-20240924115924868.png)
+![image-20240924115924868](https://github.com/user-attachments/assets/5c751b89-de4c-4915-95fd-182ea8867545)
 
 **2. 安装、配置CUDA和cuDNN(已安装，可跳过)**
 
@@ -17,8 +16,8 @@
 **4. 安装Conda(已安装，可跳过)**
 
 如果未安装，可参考AI项目基本环境安装教程：[YouTube教程](https://youtu.be/yliAfNJgtpI?si=ODw5qKYQ5b9URA2c)，[Bilibili教程](https://www.bilibili.com/video/BV1seYteFEvy/?vd_source=6c8b8679b818b05d24c65f49a65eb994)
+![视频封面ybt](https://github.com/user-attachments/assets/85574307-b95d-4b3f-927c-47c6a3b0a6bb)
 
-![视频封面ybt](F:\AI_Project\视频封面ybt.png)
 
 
 
