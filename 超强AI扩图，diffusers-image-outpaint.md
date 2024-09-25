@@ -103,4 +103,10 @@ python app.py
 pause
 ```
 
-**PS：**初次启动时需要下载模型，可等待一段时间。
+初次启动时需要下载模型，可等待一段时间。
+
+### PS：AI项目部署和使用问题，可加群一块交流
+(1) Telegram: https://t.me/+hjgDJ5bwUzc4Yjdl
+
+(2) 微信：
+![AI项目安装和使用问题可加qun沟通](https://github.com/user-attachments/assets/569a4851-3266-4b78-ac86-bb043c4d0786)
