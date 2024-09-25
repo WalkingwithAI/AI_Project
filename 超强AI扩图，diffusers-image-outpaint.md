@@ -53,7 +53,7 @@ set http_proxy=http://127.0.0.1:11157 & set https_proxy=http://127.0.0.1:11157
 
 然后执行项目代码克隆和安装三方库。
 
-**PS2：没有魔法，可手动下载完整项目包：[下载](https://wwaf.lanzouv.com/i1gUO2acoqni)**  **然后进入项目文件夹内，继续下面的操作。**
+**PS2：没有魔法，可手动下载完整项目包：[下载](https://wwaf.lanzouv.com/i3BEy2auxihg)**  **然后进入项目文件夹内，继续下面的操作。**
 
 ### **2.** **创建&激活虚拟环境**
 
