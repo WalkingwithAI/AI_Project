@@ -8,7 +8,7 @@
 
 **1. NVIDIA显卡，显存建议>=8G。4G和6G也可运行，但会用到共享显存，稍慢**
 
-![image-20240924115924868](F:\AI_Project\image-20240924115924868.png)
+
 
 **2. 安装、配置CUDA和cuDNN(已安装，可跳过)**
 
@@ -17,8 +17,9 @@
 **4. 安装Conda(已安装，可跳过)**
 
 如果未安装，可参考AI项目基本环境安装教程：[YouTube教程](https://youtu.be/yliAfNJgtpI?si=ODw5qKYQ5b9URA2c)，[Bilibili教程](https://www.bilibili.com/video/BV1seYteFEvy/?vd_source=6c8b8679b818b05d24c65f49a65eb994)
+![视频封面ytb](https://github.com/user-attachments/assets/f16323f6-6721-43ab-bece-5b096fbeeb16)
 
-![视频封面ybt](F:\AI_Project\视频封面ybt.png)
+
 
 
 
@@ -150,34 +151,19 @@ start http://127.0.0.1:7860
 python app.py
 pause
 ```
-
-**PS：**每次启动时可能加载一会儿，可等待一段时间。
-
-
-
-
-
-
-
-
+每次启动时可能加载一会儿，可等待一段时间。
 
 ### Prompt example：
-
 Dog barking in the background
-
 Pig oinking in the background
-
-
-
 Duck quacking
-
 Chicken clucking
-
-
-
 Truck honking on the street
-
 The train is honking on the tracks
 
+### PS：AI项目部署和使用问题，可加群一块交流
+(1) Telegram: https://t.me/+hjgDJ5bwUzc4Yjdl
+(2) 微信：
+![AI项目安装和使用问题可加qun沟通](https://github.com/user-attachments/assets/569a4851-3266-4b78-ac86-bb043c4d0786)
 
 
