@@ -74,7 +74,7 @@ conda activate Ezaudio
 
 ```
 #国外用户
-conda install -c conda-forge ffmpeg
+conda install -c -y conda-forge ffmpeg
 pip install gradio
 pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu118
 
