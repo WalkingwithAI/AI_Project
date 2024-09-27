@@ -74,12 +74,12 @@ conda activate Ezaudio
 
 ```
 #国外用户
-conda install -c -y conda-forge ffmpeg
+conda install -y -c conda-forge ffmpeg
 pip install gradio
 pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu118
 
 #国内用户
-conda install -c -y conda-forge ffmpeg
+conda install -y -c conda-forge ffmpeg
 pip install gradio -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple --extra-index-url https://download.pytorch.org/whl/cu118
 ```
