@@ -1,4 +1,4 @@
-# (1)Python：
+# 1. Python：
 
 下载地址(需下载V3.10.x系列)：https://www.python.org/downloads/
 
@@ -8,7 +8,7 @@
 
 python --version
 
-# (2)CUDA：
+# 2. CUDA：
 
 下载地址(需下载显卡支持的版本，且大于等于V11.8)：https://developer.nvidia.com/cuda-toolkit-archive
 
