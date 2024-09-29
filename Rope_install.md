@@ -67,3 +67,9 @@ PS：如果torch-2.0.1+cu118-cp310-cp310-win_amd64.whl下载过慢，可手动�
 也可用百度云下载：https://pan.baidu.com/s/155yBVv6G0DfXnSgZMRwW7A?pwd=asg6 
 
 提取码：asg6
+
+### PS：AI项目部署和使用问题，可加群一块交流
+(1) Telegram: https://t.me/+hjgDJ5bwUzc4Yjdl
+
+(2) 微信：
+![AI项目安装和使用问题可加qun沟通](https://github.com/user-attachments/assets/569a4851-3266-4b78-ac86-bb043c4d0786)
