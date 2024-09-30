@@ -10,9 +10,10 @@
 
 **可参考Cosyvoice本地部署教程进行安装：[YouTube教程](https://www.youtube.com/watch?v=SMpGpDc0vHs&t=2s)，[Bilibili教程](https://www.bilibili.com/video/BV14S421R76v/?vd_source=6c8b8679b818b05d24c65f49a65eb994)**
 
-安装之后，直接进行步骤2、步骤3、步骤4即可。
+安装之后，直接进行第二部分的步骤2、步骤3、步骤4即可。
 
-![视频封面YouTube](E:\Video Create\Cosyvoice最详细本地安装教程\视频封面YouTube.png)
+![视频封面YouTube](https://github.com/user-attachments/assets/a7dad408-bc0a-48d5-854c-b8da20a95320)
+
 
 ## 二、已安装Cosyvoice项目
 
@@ -70,4 +71,10 @@ python webui.py --port 50003 --model_dir pretrained_models/CosyVoice-300M-25Hz
 pause
 ```
 
-**PS：**每次启动时可能加载一会儿，可等待一段时间。
+每次启动时可能加载一会儿，可等待一段时间。
+
+### PS：AI项目部署和使用问题，可加群一块交流
+(1) Telegram: https://t.me/+hjgDJ5bwUzc4Yjdl
+
+(2) 微信：
+![AI项目安装和使用问题可加qun沟通](https://github.com/user-attachments/assets/569a4851-3266-4b78-ac86-bb043c4d0786)
