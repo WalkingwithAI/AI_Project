@@ -106,8 +106,14 @@ set http_proxy=http://127.0.0.1:11157 & set https_proxy=http://127.0.0.1:11157
 https://github.com/facefusion/facefusion-assets/releases/tag/models-3.0.0
 ```
 
-**facefusion常见模型文件(百度云)：**
-https://pan.baidu.com/s/12JdPYVOG9idCt_TaHPYm7Q?pwd=bk3q 提取码: bk3q
+强制下载所有模型方法：激活虚拟环境后，运行下面指令即可下载所有模型；
+```
+#激活虚拟环境
+conda activate facefusion
+
+#下载模型
+python facefusion.py force-download
+```
 
 ### 5. 启动项目
 
